@@ -1,7 +1,3 @@
-# Propositions de sujets de projet deep learning avec interface interactive
-
----
-
 ## Sujet 1 : Prédiction du cours d’une action du S&P 500
 
 ### Objectif  
@@ -92,7 +88,3 @@ Créer une interface utilisateur interactive et une démonstration fonctionnelle
 - Permettre une expérimentation directe des modèles et visualiser les résultats en temps réel  
 - Exposer l’ensemble du pipeline fonctionnel de bout en bout : de la collecte de données à l’interaction utilisateur  
 - Renforcer l’expérience pédagogique et le réalisme du projet
-
----
-
-Ces sujets permettent de couvrir des domaines clés du deep learning avec une application pratique et une expérience utilisateur valorisée.
